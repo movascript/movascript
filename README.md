@@ -1,12 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on a chat application.<br>👯 I’m open to collaborating on exciting projects, so feel free to reach out!<br>🌱 I’m currently learning Golang and diving into its unique features.<br>💬 Ask me about motion design principles—I love blending creativity with technology!<br>⚡ Fun fact: The term "bug" in programming originated from a real moth found in a computer in 1947!
+# Mohammad Valadi
 
+Frontend engineer focused on real-time systems, performance-heavy web apps, and modern React architecture.
 
-# 💻 My Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=movalipa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=movalipa&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=movalipa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+I mostly work with React, Next.js, and TypeScript — building PWAs, communication systems, and UI-heavy dashboards.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## What you'll find here
+
+Projects around:
+
+- Real-time communication (WebRTC, WebSocket)
+- Frontend architecture and state-heavy applications
+- PWAs and offline-first experiences
+- Experiments with performance and runtime behavior
+
+---
+
+## Tech I use often
+
+React · Next.js · TypeScript · Zustand · TanStack Query  
+WebRTC · WebSocket · Tailwind · Node.js
